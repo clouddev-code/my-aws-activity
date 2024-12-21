@@ -2,19 +2,32 @@
 
 ## ECS EBS integration abstruct, use case ( JAWS-UG Container  3/7
 
+I explain EBS integation point, Considerations, use case, CDK Considerations
+
 https://speakerdeck.com/cloudevcode/ecs-ebs-integation-nogai-yao-yusukesu
 
 ## Multiline filter Fluentbit plugin for java or Python StackTrace and so on  ( JAWSUG Tokyo Lauch LT 6/13
+
+I explain ECS logging such as awslogs, Fluentbit.
+Error logs such as java stacktrace may span multiple lines.
+Explains the introduction points and precautions for multi-line filters.
 
 https://speakerdeck.com/cloudevcode/fluentbit-mulitline-filternituite
 
 ## WebAssembly workload for EKS ( JAWSUG Tokyo Lauch LT 9/25
 
+I explain how to run WebAssembly workload on EKS.
+
 https://speakerdeck.com/cloudevcode/webassembly-workloadwoeksteli-yong-suruniha
+
+This LT releated blog is the following.
 
 https://www.totalsolution.biz/webassembly-workload-eks/
 
 ## Considering the optimal configuration based on the re:ivent 2024 container update  ( JAWSUG Yokohama   LT 12/9
+
+Optimal configuration changed  by VPC Lattice service update .
+I explain about Optimal configuration and EKS Auto mode use case.
 
 https://speakerdeck.com/cloudevcode/re-invent-2024atuhutetoteshi-xian-ke-neng-naakitekutiyawokao-eru
 
