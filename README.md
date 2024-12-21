@@ -42,8 +42,8 @@ https://www.totalsolution.biz/serverlessdays-day1%e3%81%ab%e5%8f%82%e5%8a%a0%e3%
 ## Bedrock Claude Night 2 6/19 
 https://www.totalsolution.biz/bedrock-claude-night-2/
 
-# Bedrock開発入門書籍レビュー
+## Bedrock開発入門書籍レビュー
 https://www.totalsolution.biz/bedrock%e9%96%8b%e7%99%ba%e5%85%a5%e9%96%80%e6%9b%b8%e7%b1%8d%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc/
 
-# Amazon CodeWhispererセットアップしました。Idenify Center 編
+## Amazon CodeWhispererセットアップしました。Idenify Center 編
 https://www.totalsolution.biz/amazon-codewhisperer-setup-identify-center/
