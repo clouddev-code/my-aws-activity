@@ -6,101 +6,101 @@
 
 #### EKS Auto Mode Deep Live ( JAWS-UG Yokohama Vol.81 re:invent 2024 re:cap Container 1/25)
 
-EKS Auto Modeの詳細について発表しました。
+Presented a deep dive into EKS Auto Mode.
 
 https://speakerdeck.com/cloudevcode/eks-auto-mode-deep-live
 
-#### GitHub Copilot AgentでするMCP Streamable HTTPまで (5/11)
+#### GitHub Copilot Agent to MCP Streamable HTTP (5/11)
 
-GitHub Copilot AgentとMCP Streamable HTTPについて発表しました。
+Presented about GitHub Copilot Agent and MCP Streamable HTTP.
 
 https://speakerdeck.com/cloudevcode/github-copilot-agenttesurumcp-streamable-httpmate
 
-#### コンテナイメージ高速化技術 (10/15)
+#### Container Image Acceleration Techniques (10/15)
 
-コンテナイメージの高速化技術について発表しました。
+Presented about container image acceleration techniques.
 
 https://speakerdeck.com/cloudevcode/presentation-kontenaimezigao-su-hua-ji-shu-dot-pptx
 
-#### VPC Lattice検討したが採用しなかった話 (11/1)
+#### Considered VPC Lattice but decided not to adopt it (11/1)
 
-VPC Latticeを検討したが採用しなかった経験について発表しました。
+Presented about the experience of considering VPC Lattice but deciding not to adopt it.
 
 https://speakerdeck.com/cloudevcode/vpc-latticejian-tao-sitaga-cai-yong-sinakatutahua-dot-pptx-dot-pptx
 
-#### initContainerをECSで実現したい (11/8)
+#### Achieving initContainer on ECS (11/8)
 
-ECSでinitContainerを実現する方法について発表しました。
+Presented about how to achieve initContainer on ECS.
 
 https://speakerdeck.com/cloudevcode/initcontainerwoecsdeshi-xian-sitai
 
 #### ADK for Java (11/15)
 
-Agent Development Kit (ADK) for Javaについて発表しました。
+Presented about Agent Development Kit (ADK) for Java.
 
 https://speakerdeck.com/cloudevcode/adk-for-java
 
-#### Grafana LokiをECS Fargateで構築する観点 (11/20)
+#### Considerations for Building Grafana Loki on ECS Fargate (11/20)
 
-Grafana LokiをECS Fargateで構築する際の観点について発表しました。
+Presented about considerations for building Grafana Loki on ECS Fargate.
 
 https://speakerdeck.com/cloudevcode/grafana-lokiwoecs-fargatetegou-zhu-suruguan-dian-gong-kai-ban
 
 ### Zenn
 
-#### Amazon Aurora DSQLをRustから試してみました。 (1/19)
+#### Trying Amazon Aurora DSQL from Rust (1/19)
 
 https://zenn.dev/clouddevcode/articles/cf6694210a8a10
 
-#### PythonアプリケーションのDockerパッケージ化 (2/24)
+#### Dockerizing Python Applications (2/24)
 
 https://zenn.dev/clouddevcode/articles/7f87c17f030281
 
-#### Claude 3.7 Sonnet が登場！ Google CloudのVertexAIからも使ってみた (2/25)
+#### Claude 3.7 Sonnet is here! Tried it from Google Cloud VertexAI (2/25)
 
 https://zenn.dev/clouddevcode/articles/45fc5e553ed16f
 
-#### Azure Container Apps でo1-mini LLMを叩く (3/2)
+#### Calling o1-mini LLM on Azure Container Apps (3/2)
 
 https://zenn.dev/clouddevcode/articles/0c488c193301a0
 
-#### Container カテゴリでAWS Community Builderに認定された件 (3/12)
+#### Recognized as AWS Community Builder in Container category (3/12)
 
 https://zenn.dev/clouddevcode/articles/74340e8abdb75f
 
-#### Amazon Bedrock AgentCoreを試した所感 (7/21)
+#### First impressions of Amazon Bedrock AgentCore (7/21)
 
 https://zenn.dev/clouddevcode/articles/53713a1bd72fb7
 
-#### GPT-OSS API Serviceを試してみた。 (8/16)
+#### Trying GPT-OSS API Service (8/16)
 
 https://zenn.dev/clouddevcode/articles/6785c1ec87533e
 
-#### BedrockがOpenAI Responses API形式で呼び出せる方法について Assume Role経由 (12/6)
+#### Invoking Bedrock with OpenAI Responses API format via Assume Role (12/6)
 
 https://zenn.dev/clouddevcode/articles/c238ce16d390ec
 
-#### NAT Gateway極力使わず、IPv6でEgress only internet gatewayのみの構成で実現したい (12/12)
+#### Minimizing NAT Gateway usage with IPv6 Egress-only Internet Gateway only configuration (12/12)
 
 https://zenn.dev/clouddevcode/articles/dd12968034b585
 
-#### TypeScript版Agent Development Kit (12/12)
+#### TypeScript Agent Development Kit (12/12)
 
 https://zenn.dev/clouddevcode/articles/1a9b44d5b22290
 
-#### AWS CDKでaws loginで取得したcredentialsでデプロイできるようになっていました (12/14)
+#### AWS CDK now supports deploying with credentials obtained via aws login (12/14)
 
 https://zenn.dev/clouddevcode/articles/e21d073929b93a
 
-#### ECRがイメージプッシュ時に、リポジトリを自動で作成されるようになりました。 (12/21)
+#### ECR now automatically creates repositories when pushing images (12/21)
 
 https://zenn.dev/clouddevcode/articles/eee955881ae066
 
-#### AI Builders Days スライドリンク (12/21)
+#### AI Builders Days Slide Links (12/21)
 
 https://zenn.dev/clouddevcode/articles/d8b7a3629b2206
 
-#### AgentCore BrowserとClaude Codeスキルを活用した『初手AI』を実現する業務自動化AIエージェント基盤 (12/22)
+#### AI Agent Platform for Business Automation using AgentCore Browser and Claude Code Skills (12/22)
 
 https://zenn.dev/clouddevcode/articles/a6fefae1ad28fe
 
