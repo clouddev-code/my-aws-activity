@@ -10,7 +10,7 @@ Presented a deep dive into EKS Auto Mode.
 
 https://speakerdeck.com/cloudevcode/eks-auto-mode-deep-live
 
-> 👀 45 views
+> 👀 45 views | 🎟️ 45 attendees ([connpass](https://jawsug-yokohama.connpass.com/event/337183/))
 
 #### GitHub Copilot Agent to MCP Streamable HTTP (5/11)
 
@@ -28,37 +28,37 @@ https://speakerdeck.com/cloudevcode/presentation-kontenaimezigao-su-hua-ji-shu-d
 
 > 👀 20 views
 
-#### Considered VPC Lattice but decided not to adopt it (11/1)
+#### Considered VPC Lattice but decided not to adopt it ( JAWS-UG Sainokuni Saitama #5 re:Invent Prep 11/1)
 
 Presented about the experience of considering VPC Lattice but deciding not to adopt it.
 
 https://speakerdeck.com/cloudevcode/vpc-latticejian-tao-sitaga-cai-yong-sinakatutahua-dot-pptx-dot-pptx
 
-> 👀 18 views
+> 👀 18 views | 🎟️ 50 attendees ([connpass](https://jawsug-sainokuni-saitama.connpass.com/event/372964/))
 
-#### Achieving initContainer on ECS (11/8)
+#### Achieving initContainer on ECS ( JAWS-UG Container x Storage Collab 11/8)
 
 Presented about how to achieve initContainer on ECS.
 
 https://speakerdeck.com/cloudevcode/initcontainerwoecsdeshi-xian-sitai
 
-> 👀 19 views
+> 👀 19 views | 🎟️ 110 attendees ([connpass](https://jawsug-container.connpass.com/event/371124/))
 
-#### ADK for Java (11/15)
+#### ADK for Java ( JJUG CCC 2025 Fall 11/15)
 
 Presented about Agent Development Kit (ADK) for Java.
 
 https://speakerdeck.com/cloudevcode/adk-for-java
 
-> 👀 71 views ⭐ 1 star
+> 👀 71 views ⭐ 1 star | 🎟️ 974 attendees ([doorkeeper](https://jjug.doorkeeper.jp/events/190868))
 
-#### Considerations for Building Grafana Loki on ECS Fargate (11/20)
+#### Considerations for Building Grafana Loki on ECS Fargate ( CloudNative Days Winter 2025 11/20)
 
 Presented about considerations for building Grafana Loki on ECS Fargate.
 
 https://speakerdeck.com/cloudevcode/grafana-lokiwoecs-fargatetegou-zhu-suruguan-dian-gong-kai-ban
 
-> 👀 25 views
+> 👀 25 views | 🎟️ 1,864 attendees ([CNDW2025](https://event.cloudnativedays.jp/cndw2025))
 
 ### Zenn
 
