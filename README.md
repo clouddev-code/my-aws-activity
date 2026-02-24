@@ -142,6 +142,28 @@ https://zenn.dev/clouddevcode/articles/a6fefae1ad28fe
 
 > ❤️ 1 like
 
+### blog
+
+#### Obserivability Pipeline Query Language Session recap (5/25)
+
+https://www.totalsolution.biz/obserivability-pipeline-query-language-session-recap/
+
+#### やさしいMCP入門を読んでみて (7/2)
+
+https://www.totalsolution.biz/easy_introduction_mcp_review/
+
+#### SRE Next 2025 Day1 (7/12)
+
+https://www.totalsolution.biz/sre-next-2025-day1/
+
+#### SRE Next 2025 Day2 (7/13)
+
+https://www.totalsolution.biz/sre-next-2025-day2/
+
+#### 作って学ぶFastly ComputeベースのリアルタイムアプリケーションとMCP入門 (9/23)
+
+https://www.totalsolution.biz/fastly_workshop/
+
 ### dev.to
 
 #### Fargate Spot Capacity rack (3/22)
